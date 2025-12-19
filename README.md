@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Harsh 👋
 
-<!--
-**harsh0707005-web/harsh0707005-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student (SPPU)  
+💻 Interested in Full-Stack Web Development  
+🌱 Currently learning JavaScript, React & Backend  
+📫 Email: harsh.0707005@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Basics of SQL & Backend
+
+---
+
+### 📌 Projects
+- **Portfolio Website** – Personal website showcasing my work
+- **Smart Agriculture Assistant** – Tech-based solution for farming
+
+---
+
+### 🚀 Goals
+- Build real-world projects
+- Improve problem-solving skills
+- Prepare for internships & placements
