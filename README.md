@@ -47,10 +47,7 @@ fun_fact: "I turn ☕ into <code/>"
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh0707005-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0707005-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0707005-web&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
@@ -62,7 +59,7 @@ fun_fact: "I turn ☕ into <code/>"
 
 <div align="center">
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-6C63FF?style=for-the-badge&logoColor=white)](https://github.com/harsh0707005-web)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-6C63FF?style=for-the-badge&logoColor=white)](https://harsh-rathod.netlify.app/)
 [![Smart Agriculture](https://img.shields.io/badge/🌾_Smart_Agriculture_Assistant-2ECC71?style=for-the-badge&logoColor=white)](https://github.com/harsh0707005-web)
 
 </div>
